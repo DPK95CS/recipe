@@ -1,0 +1,9 @@
+<li key={item.name}>
+{item.name} {item.price} {item.category} {item.label} {item.description} 
+<section>
+<PhotoContainer photos = {item.image} />
+</section>
+
+
+
+</li>
